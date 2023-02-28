@@ -1,4 +1,9 @@
-
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
 /* 
 
     You can write your own styles here...
