@@ -4,6 +4,14 @@
 .nav-link{
     color: white;
 }
+
+#btn-ftr{
+    display: flex;
+    justify-content: center;
+}
+/* .container{
+    display: inline-block;
+} */
 /* 
 
     You can write your own styles here...
